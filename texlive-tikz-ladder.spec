@@ -1,6 +1,6 @@
 Name:		texlive-tikz-ladder
 Version:	62992
-Release:	1
+Release:	2
 Summary:	Draw ladder diagrams using TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-ladder
