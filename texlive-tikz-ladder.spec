@@ -3,7 +3,7 @@ Version:	62992
 Release:	2
 Summary:	Draw ladder diagrams using TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-ladder
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-ladder
 License:	lppl1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-ladder.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-ladder.doc.r%{version}.tar.xz
